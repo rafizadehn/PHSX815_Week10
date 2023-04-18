@@ -32,7 +32,7 @@ which would run through 50 iterations of this average calculation.
 
 The shows the asymptotic tend to Gaussian distribution as the number of experiments increases from 1.
 
-
+![Figure_111](https://user-images.githubusercontent.com/76142511/232670497-baeb6d48-dba2-4d01-81fd-e0efbea6fd81.png)
 
 SOURCES: Code was taken and adpated from [this GeekforGeek page.](https://www.geeksforgeeks.org/python-central-limit-theorem/)
 
